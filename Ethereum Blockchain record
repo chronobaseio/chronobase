@@ -1,0 +1,13 @@
+operation type: registered				type of event
+date created: 2018-05-01 12:49:45		timestamp in UTC
+location: Switzerland					country name from gps
+id: 1							watch id in database
+brand: Rolex						watch brand
+serial no.: 908677j1					watch serial name
+creator: Owner						Owner or Service Center Name
+desc: sold my watch					description of operation
+prev_tx: 0x7430f991ca6f40b2c88cd000fd606503eaabaa4ded6ccf3b39fd88deea79124f
+
+Base64 encoded data string for blockchain log entries (UTF-8):
+
+b3BlcmF0aW9uIHR5cGU6IHJlZ2lzdGVyZWQKZGF0ZSBjcmVhdGVkOiAyMDE4LTA1LTAxIDEyOjQ5OjQ1CmxvY2F0aW9uOiBTd2l0emVybGFuZAppZDogMQpicmFuZDogUm9sZXgKc2VyaWFsIG5vLjogOTA4Njc3ajEKY3JlYXRvcjogT3duZXIK
